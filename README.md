@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Backend Developer
+Aspiring FullStack Developer
 
 
 ## 🌐 Socials:
